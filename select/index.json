@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Whisper Whisper Whisper",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-23T07:06:41.505774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/01_Whisper_Whisper_Whisper_Azari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper",
+      "artist": "Kuraiinu",
+      "has_synced": false,
+      "path": "select/02_Whisper_Whisper_Whisper_Kuraiinu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/03_Whisper_Whisper_Whisper_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper (Instrumental)",
+      "artist": "Azari",
+      "has_synced": true,
+      "path": "select/04_Whisper_Whisper_Whisper_(Instrumental)_Azari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/05_Whisper_Whisper_Whisper_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whisper Whisper Whisper (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/06_Whisper_Whisper_Whisper_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whisper Whisper Whisper",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Whisper_Whisper_Whisper_Azari.txt"
+    }
+  ]
+}
